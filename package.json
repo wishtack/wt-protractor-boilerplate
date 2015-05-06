@@ -1,6 +1,6 @@
 {
     "name": "wt-protractor-boilerplate",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Protractor browserstack cross-browser testing boilerplate",
     "main": "index.js",
     "repository": {
@@ -30,7 +30,7 @@
         "node.extend": "1.1.3",
         "require-dir": "0.3.0",
         "underscore": "1.8.3",
-        "wt-protractor-runner": "0.2.0",
-        "wt-protractor-utils": "0.1.1"
+        "wt-protractor-runner": "0.2.2",
+        "wt-protractor-utils": "0.2.1"
     }
 }
