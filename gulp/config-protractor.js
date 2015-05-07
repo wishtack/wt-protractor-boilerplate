@@ -63,7 +63,7 @@ module.exports = function configProtractor() {
                 configList: [
                     protractorBaseConfig,
                     browserstack,
-                    protractorUtils.browser.android
+                    protractorUtils.os.android
                 ]
             }),
             /* iPad. */
@@ -71,7 +71,7 @@ module.exports = function configProtractor() {
                 configList: [
                     protractorBaseConfig,
                     browserstack,
-                    protractorUtils.browser.iPad
+                    protractorUtils.device.iPad
                 ]
             }),
             /* iPhone. */
@@ -79,7 +79,7 @@ module.exports = function configProtractor() {
                 configList: [
                     protractorBaseConfig,
                     browserstack,
-                    protractorUtils.browser.iPhone
+                    protractorUtils.device.iPhone
                 ]
             })
         ]
