@@ -1,5 +1,8 @@
 # Changelog
 
+### 0.2.0 - 2015-12-23
+- Dependencies upgrade.
+
 ### 0.1.2 - 2015-05-07
 - BUGFIX: Updated 'wt-protractor-utils' dependency to run iPhone instead of mistakenly running iPad.
 
